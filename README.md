@@ -1,14 +1,22 @@
 A ViewGroup is a special view that can contain other views (called children.) The view group is the base class for layouts and views containers.
 There are many types of ViewGroup like:
 - LinearLayout
-    - Vertical (equal heigh):
+    - Vertical (equal height):
 
-    ![LinearLayout_01.png](./assets/LinearLayout_01.png)
+    ![LinearLayoutVertival_01.png](./assets/LinearLayoutVertical_01.png)
 
-    - Vertical (height with different weight):
+    - Vertical (different height):
 
-    ![LinearLayout_01.png](./assets/LinearLayout_02.png)
+    ![LinearLayoutVertical_02.png](./assets/LinearLayoutVertical_02.png)
     
+    - Horizontal (equal width):
+
+    ![LinearLayoutHorizontal_01.png](./assets/LinearLayoutHorizontal_01.png)
+
+    - Horizontal (different width):
+
+    ![LinearLayoutHorizontal_02.png](./assets/LinearLayoutHorizontal_02.png)
+
 - ConstraintLayout
 - Toolbar
 - RelativeLayout
