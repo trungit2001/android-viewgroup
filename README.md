@@ -20,7 +20,7 @@ There are many types of ViewGroup like:
 
     - Difference width and height:
 
-    ![LinearLayoutHorizontalVetical.png](./assets/LinearLayoutHorizontalVetical.png)
+    ![LinearLayoutHorizontalVetical.png](./assets/LinearLayoutHorizontalVertical.png)
 
 - ConstraintLayout
 - Toolbar
