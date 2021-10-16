@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Linear Layout</string>
+    <string name="label_1">1</string>
+    <string name="label_2">2</string>
+    <string name="label_3">3</string>
+    <string name="label_4">4</string>
+    <string name="label_5">5</string>
+    <string name="label_6">6</string>
+    <string name="label_7">7</string>
+    <string name="label_8">8</string>
 </resources>

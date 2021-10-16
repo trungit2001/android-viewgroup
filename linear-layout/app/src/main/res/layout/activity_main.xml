@@ -13,7 +13,7 @@
         <TextView
             android:layout_weight="1"
             android:gravity="center"
-            android:text="1"
+            android:text="@string/label_1"
             android:textSize="30sp"
             android:textColor="@color/black"
             android:background="@color/purple_200"
@@ -26,7 +26,7 @@
             android:layout_weight="1"
             android:background="#00E676"
             android:gravity="center"
-            android:text="2"
+            android:text="@string/label_2"
             android:textColor="#546E7A"
             android:textSize="30sp" />
     </LinearLayout>
@@ -43,7 +43,7 @@
             android:layout_weight="1"
             android:gravity="center"
             android:background="#3D5AFE"
-            android:text="3"
+            android:text="@string/label_3"
             android:textColor="@color/black"
             android:textSize="30sp"/>
 
@@ -53,7 +53,7 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:background="#F50057"
-            android:text="4"
+            android:text="@string/label_4"
             android:gravity="center"
             android:textColor="#64FFDA"
             android:textSize="30sp" />
@@ -63,7 +63,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="#FFEA00"
-            android:text="5"
+            android:text="@string/label_5"
             android:gravity="center"
             android:textColor="#00897B"
             android:textSize="30sp"
@@ -82,7 +82,7 @@
             android:layout_weight="3"
             android:gravity="center"
             android:background="#BF360C"
-            android:text="6"
+            android:text="@string/label_6"
             android:textColor="@color/black"
             android:textSize="30sp"/>
 
@@ -92,7 +92,7 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:background="#18FFFF"
-            android:text="7"
+            android:text="@string/label_7"
             android:gravity="center"
             android:textColor="@color/black"
             android:textSize="30sp" />
@@ -103,7 +103,7 @@
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:background="@android:color/holo_green_dark"
-        android:text="8"
+        android:text="@string/label_8"
         android:gravity="center"
         android:textColor="#F0F4C3"
         android:textSize="30sp"/>
