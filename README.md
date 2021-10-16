@@ -5,7 +5,7 @@ There are many types of ViewGroup like:
 
     ![LinearLayoutVertival_01.png](./assets/LinearLayoutVertical_01.png)
 
-    - Vertical (different height):
+    - Vertical (difference height):
 
     ![LinearLayoutVertical_02.png](./assets/LinearLayoutVertical_02.png)
     
@@ -13,7 +13,7 @@ There are many types of ViewGroup like:
 
     ![LinearLayoutHorizontal_01.png](./assets/LinearLayoutHorizontal_01.png)
 
-    - Horizontal (different width):
+    - Horizontal (difference width):
 
     ![LinearLayoutHorizontal_02.png](./assets/LinearLayoutHorizontal_02.png)
 
